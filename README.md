@@ -4,17 +4,20 @@
 
 - <b>Azure / Cloud Projects </b>
   - [Creating a Live SOC/Honeypot in Azure](https://github.com/Lachiecodes/Azure-SOC-Honeypot)
+  - [Securing and Hardening Network Security Groups in Azure]
+  - 
+- <b>Performing a Security Audit </b>
+
 - <b>Linux System Administration </b>
   - [Running Containerised Applications With Docker]
   - [Securing and Hardening a Linux System]
   - [Setting Up a Web and DNS Server]
   - [Automating Linux Administrative Tasks With Ansible]
+    
 - <b>Python</b>
   - [Scraping Data With Python]
   - [Hacker News Project]
-  
-
-
+  - [Update a File Through Python Algorithm]
 
 <h2> 🤳 Connect with me:</h2>
 
