@@ -5,9 +5,11 @@
 - <b>Azure / Cloud Projects </b>
   - [Creating a Live SOC/Honeypot in Azure](https://github.com/Lachiecodes/Azure-SOC-Honeypot)
   - [Securing and Hardening Network Security Groups in Azure]
-  - 
-- <b>Performing a Security Audit </b>
-
+    
+- <b>Projects Using Cybersecurity Regulations and Frameworks </b>
+  - [Security Audit Applying NIST 800-53 Controls for Regulatory Compliance (GDPR, PCI DSS, HIPAA)]
+  - [Incident Reponse Using NIST 800-61]
+     
 - <b>Linux System Administration </b>
   - [Running Containerised Applications With Docker]
   - [Securing and Hardening a Linux System]
