@@ -19,7 +19,7 @@
 - <b>Python</b>
   - [Scraping Data With Python]
   - [Hacker News Project]
-  - [Update a File Through Python Algorithm]
+  - [Update a File Through Python Algorithm](https://github.com/Lachiecodes/Python-Algorithm-UpdateFile)
 
 <h2> 🤳 Connect with me:</h2>
 
