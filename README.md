@@ -5,10 +5,9 @@
 - <b>Azure / Cloud Projects </b>
   - [Creating a Live SOC/Honeypot in Azure](https://github.com/Lachiecodes/Azure-SOC-Honeypot)
   - [Azure Honeypot Configuration](https://github.com/Lachiecodes/Azure-Honeypot-Configuration)
-  - [Securing and Hardening Network Security Groups in Azure]
     
 - <b>Applying Cybersecurity Regulations and Frameworks </b>
-  - [Security Audit Applying NIST 800-53 Controls for Regulatory Compliance (GDPR, PCI DSS, HIPAA)]
+  - [Applying NIST 800-53 Controls to Improve Azure Cloud Security Posture ]
   - [Incident Reponse Using NIST 800-61]
      
 - <b>Linux System Administration </b>
