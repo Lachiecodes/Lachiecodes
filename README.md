@@ -7,7 +7,7 @@
   - [Azure Honeypot Configuration](https://github.com/Lachiecodes/Azure-Honeypot-Configuration)
     
 - <b>Applying Cybersecurity Regulations and Frameworks </b>
-  - [Applying NIST 800-53 Controls to Improve Azure Cloud Security Posture ]
+  - [Applying NIST 800-53 Controls to Improve Azure Cloud Security Posture]
   - [Incident Reponse Using NIST 800-61]
      
 - <b>Linux System Administration </b>
