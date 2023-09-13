@@ -8,7 +8,7 @@
     
 - <b>Applying Cybersecurity Regulations and Frameworks </b>
   - [Applying NIST 800-53 Controls to Improve Azure Cloud Security Posture](https://github.com/Lachiecodes/Azure-Cloud-Security-Hardening)
-  - [Incident Reponse Using NIST 800-61](https://github.com/Lachiecodes/Azure-Incident-Response)
+  - [Incident Reponse in Azure Sentinel Using NIST 800-61](https://github.com/Lachiecodes/Azure-Incident-Response)
      
 - <b>Linux System Administration </b>
   - [Running Containerised Applications With Docker]
