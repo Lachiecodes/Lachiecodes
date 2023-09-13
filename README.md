@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Projects </b>
-  - [Creating a Live SOC/Honeypot in Azure](https://github.com/Lachiecodes/Azure-SOC-Honeypot)
+  - [Building a Live SOC/Honeypot in Azure](https://github.com/Lachiecodes/Azure-SOC-Honeypot)
   - [Azure Honeypot Configuration](https://github.com/Lachiecodes/Azure-Honeypot-Configuration)
     
 - <b>Applying Cybersecurity Regulations and Frameworks </b>
