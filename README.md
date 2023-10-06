@@ -11,7 +11,7 @@
   - [Incident Reponse in Azure Sentinel Using NIST 800-61](https://github.com/Lachiecodes/Azure-Incident-Response)
      
 - <b>Linux Projects</b>
-  - [Securing and Hardening a Linux System]
+  - [Securing and Hardening a Linux System](https://github.com/Lachiecodes/Securing-and-Hardening-a-Linux-System)
 
     
 - <b>Python</b>
