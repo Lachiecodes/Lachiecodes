@@ -13,10 +13,12 @@
 - <b>Linux Projects</b>
   - [Securing and Hardening a Linux System](https://github.com/Lachiecodes/Securing-and-Hardening-a-Linux-System)
 
-    
 - <b>Python</b>
-  - [Scraping Data With Python]
-  - [Hacker News Project]
+  - [SSH Login Brute Forcing]
+  - [SHA256 Password Cracking]
+  - [Web Login Form Brute Forcing]
+  - [Exploiting a SQL Injection]
+  - [Exploiting a Restricted SQL Injection]
   - [Update a File Through Python Algorithm](https://github.com/Lachiecodes/Python-Algorithm-UpdateFile)
 
 <h2> 🤳 Connect with me:</h2>
