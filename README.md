@@ -15,7 +15,7 @@
 
 - <b>Python Scripts</b>
   - [SSH Login Brute Forcer](https://github.com/Lachiecodes/Python-Scripts/blob/main/Bruteforce.py)
-  - [SHA256 Password Cracking]
+  - [SHA256 Password Cracker](https://github.com/Lachiecodes/Python-Scripts/blob/main/Sha256-crack.py)
   - [Web Login Form Brute Forcing]
   - [Exploiting a SQL Injection]
   - [Exploiting a Restricted SQL Injection]
