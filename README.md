@@ -13,8 +13,8 @@
 - <b>Linux Projects</b>
   - [Securing and Hardening a Linux System](https://github.com/Lachiecodes/Securing-and-Hardening-a-Linux-System)
 
-- <b>Python</b>
-  - [SSH Login Brute Forcing]
+- <b>Python Scripts</b>
+  - [SSH Login Brute Forcer](https://github.com/Lachiecodes/Python-Scripts/blob/main/Bruteforce.py)
   - [SHA256 Password Cracking]
   - [Web Login Form Brute Forcing]
   - [Exploiting a SQL Injection]
