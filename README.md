@@ -19,8 +19,7 @@
   - [Web Login Form Brute Forcing](https://github.com/Lachiecodes/Python-Scripts/blob/main/Web-brute.py)
   - [Exploiting a SQL Injection](https://github.com/Lachiecodes/Python-Scripts/blob/main/SQL-inject.py#L18C1-L18C1)
   - [Exploiting a Restricted SQL Injection]
-  - [Update a File Through Python Algorithm](https://github.com/Lachiecodes/Python-Algorithm-UpdateFile)
-
+    
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="LachlanSimpson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
