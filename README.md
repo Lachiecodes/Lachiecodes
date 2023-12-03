@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lachlan! Cybersecurity Engineer </h1>
+<h1>Hi, I'm Lachlan! Cybersecurity Professional </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -18,7 +18,7 @@
   - [SHA256 Password Cracker](https://github.com/Lachiecodes/Python-Scripts/blob/main/Sha256-crack.py)
   - [Web Login Form Brute Forcing](https://github.com/Lachiecodes/Python-Scripts/blob/main/Web-brute.py)
   - [Exploiting a SQL Injection](https://github.com/Lachiecodes/Python-Scripts/blob/main/SQL-inject.py#L18C1-L18C1)
-  - [Exploiting a Restricted SQL Injection]
+  - [Exploiting a Restricted SQL Injection](https://github.com/Lachiecodes/Python-Scripts/blob/main/Restricted-SQL-inject.py)
     
 <h2> 🤳 Connect with me:</h2>
 
