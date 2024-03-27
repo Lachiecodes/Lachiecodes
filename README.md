@@ -11,7 +11,7 @@
   - [Incident Reponse in Azure Sentinel Using NIST 800-61](https://github.com/Lachiecodes/Azure-Incident-Response)
     
 - <b>System Administration</b>
-  - [Building an Enterprise Active Directory Environment](https://github.com/Lachiecodes/Active-Directory)
+  - [Building an Active Directory Environment](https://github.com/Lachiecodes/Active-Directory)
   - [Securing and Hardening a Linux System](https://github.com/Lachiecodes/Securing-and-Hardening-a-Linux-System)
 
 - <b>Python Scripts</b>
