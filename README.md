@@ -1,16 +1,17 @@
 <h1>Hi, I'm Lachlan! Cybersecurity Professional </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 ICT Projects:</h2>
 
-- <b>Azure / Cloud Projects </b>
+- <b>Cloud Security Projects </b>
   - [Building a Live SOC/Honeypot in Azure](https://github.com/Lachiecodes/Azure-SOC-Honeypot)
   - [Azure Honeypot Configuration](https://github.com/Lachiecodes/Azure-Honeypot-Configuration)
     
 - <b>Applying Cybersecurity Regulations and Frameworks </b>
   - [Applying NIST 800-53 Controls to Improve Azure Cloud Security Posture](https://github.com/Lachiecodes/Azure-Cloud-Security-Hardening)
   - [Incident Reponse in Azure Sentinel Using NIST 800-61](https://github.com/Lachiecodes/Azure-Incident-Response)
-     
-- <b>Linux Projects</b>
+    
+- <b>System Administration</b>
+  - [Building an Enterprise Active Directory Environment](https://github.com/Lachiecodes/Active-Directory)
   - [Securing and Hardening a Linux System](https://github.com/Lachiecodes/Securing-and-Hardening-a-Linux-System)
 
 - <b>Python Scripts</b>
