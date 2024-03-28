@@ -1,6 +1,6 @@
 <h1>Hi, I'm Lachlan! IT Security Analyst </h1>
 
-<h2>👨‍💻 ICT Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
 - <b>Cloud Security Projects </b>
   - [Building a Live SOC/Honeypot in Azure](https://github.com/Lachiecodes/Azure-SOC-Honeypot)
