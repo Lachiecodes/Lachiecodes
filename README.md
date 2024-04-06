@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lachlan! Cyber Security Analyst </h1>
+<h1>Hi, I'm Lachlan! Cyber Security Professional </h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
